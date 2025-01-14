@@ -18,12 +18,18 @@
     pip install django djangorestframework psycopg2
     ```
 
-4. Create an app named labs
+4. Start creating a project
+    ```bash
+    django-admin startproject lab_management       
+    cd lab_management
+    ```
+
+5. Create an app named labs
     ```bash
     python manage.py startapp labs
     ```
 
-5. Start the server
+6. Start the server
     ```bash
     python manage.py runserver
     ```
