@@ -1,5 +1,11 @@
 # Lab Management System
 
+python 3.13.1
+django-admin 5.1.4
+vue 3
+tailwind
+postgresql 17
+
 ## Setup Instructions
 
 ### lab_management
